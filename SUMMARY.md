@@ -10,13 +10,13 @@
   * [Что такое .tree?](faq/chto-takoe-.tree.md)
   * [Как работать со стилями в $mol?](faq/kak-rabotat-so-stilyami-v-usdmol.md)
 
-## 🧑💻 Практика
+## 🧑💻 🧑💻 Практика
 
 * [Быстрый старт](praktika/bystryi-start/README.md)
   * [Hello World!](praktika/bystryi-start/hello-world.md)
   * [Список дел](praktika/bystryi-start/spisok-del.md)
-  * [Счётчик](praktika/bystryi-start/schyotchik.md)
   * [Крестики-нолики](praktika/bystryi-start/krestiki-noliki.md)
+  * [Счётчик](praktika/bystryi-start/schyotchik.md)
   * [Калькулятор](praktika/bystryi-start/kalkulyator.md)
 * [Реальные приложения](praktika/realnye-prilozheniya.md)
 

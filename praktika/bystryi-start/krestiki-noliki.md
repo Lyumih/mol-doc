@@ -4,9 +4,8 @@ description: Стандартное приложение Крестики-нол
 
 # Крестики-нолики
 
-Приложение пока ещё не сделано. Если у вас оно есть, пришлите пожалуйста ссылку, мы его разместим. Пример перенесён из обучения по реакту.\
+Ссылка на работающее приложение: [https://reatailret.github.io/mam\_examples/xo/-/](https://reatailret.github.io/mam\_examples/xo/-/)
 
+Ссылка на репозиторий: [https://github.com/reatailret/mam\_examples/tree/master/xo](https://github.com/reatailret/mam\_examples/tree/master/xo)
 
-Ссылка на работающее приложение:
-
-Ссылка на репозиторий:
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
