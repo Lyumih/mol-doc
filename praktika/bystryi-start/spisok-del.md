@@ -8,4 +8,4 @@ description: Стандартное приложение todo "Список де
 
 Ссылка на репозиторий: [https://github.com/hyoo-ru/todomvc.hyoo.ru](https://github.com/hyoo-ru/todomvc.hyoo.ru)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

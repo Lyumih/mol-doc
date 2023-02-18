@@ -12,4 +12,4 @@ description: $mol, MAM и hyoo
 
 Интерактиваня карта экосистемы есть тут [**https://raw.githubusercontent.com/hyoo-ru/hyoo.ru/master/hyoo.svg**](https://raw.githubusercontent.com/hyoo-ru/hyoo.ru/master/hyoo.svg)****
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

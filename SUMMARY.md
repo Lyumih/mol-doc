@@ -25,6 +25,7 @@
 * [Компоненты UI](komponenty/komponenty-ui.md)
 * [Иконки](komponenty/ikonki.md)
 * [Стили и темы](komponenty/stili-i-temy.md)
+* [Лакализация](komponenty/lakalizaciya.md)
 
 ## 🌎 Экосистема
 
