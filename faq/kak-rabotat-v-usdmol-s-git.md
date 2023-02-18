@@ -60,8 +60,8 @@ yarn start hyoo/app
 <!---->
 
 1. [https://github.com/Lyumih/analitics-example/blob/main/.github/workflows/deploy.yml](https://github.com/Lyumih/analitics-example/blob/main/.github/workflows/deploy.yml) Вот пример созданого файла для развертывания в примере
-2. ![](../.gitbook/assets/image.png) Создание секрета для репозитория
-3. ![](<../.gitbook/assets/image (1).png>) [https://github.com/settings/tokens](https://github.com/settings/tokens) создание токена. Не забудьте выдать правильные права на пуш!
+2. ![](<../.gitbook/assets/image (7).png>) Создание секрета для репозитория
+3. ![](<../.gitbook/assets/image (4).png>) [https://github.com/settings/tokens](https://github.com/settings/tokens) создание токена. Не забудьте выдать правильные права на пуш!
 
 
 
