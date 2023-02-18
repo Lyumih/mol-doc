@@ -24,15 +24,21 @@ description: Вопросы, которые стоит добавить в FAQ
 
 ### Список для заполнения новых вопросов
 
-* [ ] Что такое полирепозиторий?
-* [ ] Как работать в полирепозитории?
-* [ ] Как выложить своё приложение в сеть?
-* [ ] Как выложить свой модуль на GitHub Pages?
 * [ ] Как выложить своё приложение на Vercel?
+* [ ] Как интегрироваться с Гугл Аналитикой?
+* [ ] Как интегрироваться с Яндекс Метрикой?
+* [ ] Как интегрироваться с БД Firebase?
+* [ ] Как интегрироваться с БД CROWD?
+* [ ] Как делать переводы i18n в mol?
+* [ ] Как наладить процесс переводов в $mol?
 * [ ] Как запустить тесты?
 * [ ] Как создать свою тему?
 * [ ] Что такое sub?
-* [ ] Как добавить свою идею к мол? [https://github.com/hyoo-ru/mam\_mol/discussions](https://github.com/hyoo-ru/mam\_mol/discussions)
+* [x] Как выложить своё приложение в сеть?
+* [x] Как выложить свой модуль на GitHub Pages?
+* [x] Как работать в полирепозитории?
+* [x] Что такое полирепозиторий?
+* [x] Как добавить свою идею к мол? [https://github.com/hyoo-ru/mam\_mol/discussions](https://github.com/hyoo-ru/mam\_mol/discussions)
 * [x] Где почитать про синтаксис tree? [#chto-takoe-x.view.tree-fail-v-usdmol](chto-takoe-.tree.md#chto-takoe-x.view.tree-fail-v-usdmol "mention")
 * [x] Что такое tree? [chto-takoe-.tree.md](chto-takoe-.tree.md "mention")
 * [x] Как изменить стили css? [kak-rabotat-so-stilyami-v-usdmol.md](kak-rabotat-so-stilyami-v-usdmol.md "mention")

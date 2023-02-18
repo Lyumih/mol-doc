@@ -49,7 +49,7 @@ yarn start hyoo/app
 
 <details>
 
-<summary>Как выложить свой модуль на GitHub / npm?</summary>
+<summary>Как выложить свой модуль на GitHub Pages / npm?</summary>
 
 Инструкция по публикации модулей в интернете уже написана. Она начинается с разела ["Монорепозитории и полирепозитории" ](https://mol.hyoo.ru/#!section=articles/author=hyoo-ru/repo=HabHub/article=4/Articles.Datails\_text=%D0%9C%D0%BE%D0%BD%D0%BE%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B8%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8)из статьи [Введение в $mol. Часть 1. Модульная система МАМ.](https://mol.hyoo.ru/#!section=articles/author=hyoo-ru/repo=HabHub/article=4)\
 \
