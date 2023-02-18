@@ -49,17 +49,21 @@ yarn start hyoo/app
 
 <details>
 
-<summary>Как выложить свой модуль на GitHub Pages / npm?</summary>
+<summary>Как выложить свой модуль на GitHub Pages?</summary>
 
-Инструкция по публикации модулей в интернете уже написана. Она начинается с разела ["Монорепозитории и полирепозитории" ](https://mol.hyoo.ru/#!section=articles/author=hyoo-ru/repo=HabHub/article=4/Articles.Datails\_text=%D0%9C%D0%BE%D0%BD%D0%BE%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B8%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8)из статьи [Введение в $mol. Часть 1. Модульная система МАМ.](https://mol.hyoo.ru/#!section=articles/author=hyoo-ru/repo=HabHub/article=4)\
-\
-Необходимо обратить внимание на несколько моментов
+Для мола есть инструкция по автоматическому разворачивавнию своего проекта на GitHub Pages.
 
-* Пример готового модуля на GitHub: [https://github.com/hyoo-ru/apps.hyoo.ru](https://github.com/hyoo-ru/apps.hyoo.ru)&#x20;
-* Чтобы использовать начать модуль, достаточно команды `yarn start hyoo/app`&#x20;
-* Модуль будет установлен в деррикторию проекта mam согласно его имени
-* Если до этого не было опыта работа с полирепозиторием, осознать, что  git репозитории могут быть вложены друг в друга как матрёшка и работать изолированно достаточно сложно.
-* Если у вас остались вопросы по публикации, задайти их нам в чат в телеграмме: [https://t.me/mam\_mol](https://t.me/mam\_mol). Сообщество поможет разобраться и настроить публикацию пакетов
+1. Нужно идти по инструкции в разделе  [Развертывание приложения на Github Pages](https://mol.hyoo.ru/#!section=articles/author=hyoo-ru/repo=HabHub/article=4/Articles.Datails\_text=%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%20Github%20Pages)
+2. Нужно правильно в настройках GitHub создать токен, дать токену права на пуш в репозитории и добавить секрет к самому репозиторию с проектом.
+3. Если не получается самостоятельно, то лучше написать в чат [https://t.me/mam\_mol](https://t.me/mam\_mol) и спросить по токену. Это занимает 3 минуты, если знаешь как настроить)
+
+<!---->
+
+1. [https://github.com/Lyumih/analitics-example/blob/main/.github/workflows/deploy.yml](https://github.com/Lyumih/analitics-example/blob/main/.github/workflows/deploy.yml) Вот пример созданого файла для развертывания в примере
+2. ![](../.gitbook/assets/image.png) Создание секрета для репозитория
+3. ![](<../.gitbook/assets/image (1).png>) [https://github.com/settings/tokens](https://github.com/settings/tokens) создание токена. Не забудьте выдать правильные права на пуш!
+
+
 
 
 

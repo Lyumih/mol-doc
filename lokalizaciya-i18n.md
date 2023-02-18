@@ -2,13 +2,13 @@
 description: Инструкция по локализации проекта в $mol
 ---
 
-# 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Локализация i18n
+# 🇱🇷 Локализация i18n
 
 Процесс локализации проекта может проходить двумя разными подходами: через файлы ресурсов проекта и через запрос к веб серверу онлайн. В $mol по умолчанию используется 1 подход.&#x20;
 
 Локализация в $mol настроина по умолчанию из коробки. Небольшое введение по локализации есть в этой [статье](https://page.hyoo.ru/#!=jfketb\_3qo2ad/View%22jfketb\_3qo2ad%22.Details=%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%D0%BE%20view.tree) .
 
-<img src=".gitbook/assets/image (4).png" alt="" data-size="original">![](<.gitbook/assets/image (2).png>)![](.gitbook/assets/image.png)![](<.gitbook/assets/image (5).png>)
+<img src=".gitbook/assets/image (4).png" alt="" data-size="original">![](<.gitbook/assets/image (2).png>)![](<.gitbook/assets/image (7).png>)![](<.gitbook/assets/image (5).png>)
 
 Рассмотрим локализацию на примере приложения Quine [https://mol.js.org/app/quine/-/](https://mol.js.org/app/quine/-/) , его исходники лежат здесь: [https://github.com/hyoo-ru/mam\_mol/tree/master/app/quine](https://github.com/hyoo-ru/mam\_mol/tree/master/app/quine)
 
