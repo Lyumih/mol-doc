@@ -17,7 +17,7 @@ description: >-
 ![](<../.gitbook/assets/image (1).png>)\
 Сайт на мол: [https://reatailret.github.io/mam\_examples/wcwysiwygeditor/examplepage/vite/build/](https://reatailret.github.io/mam\_examples/wcwysiwygeditor/examplepage/vite/build/)\
 Репозиторий: [https://github.com/reatailret/mam\_examples/tree/master/wcwysiwygeditor](https://github.com/reatailret/mam\_examples/tree/master/wcwysiwygeditor)\
-<img src="../.gitbook/assets/image.png" alt="" data-size="original">\
+<img src="../.gitbook/assets/image (8).png" alt="" data-size="original">\
 1\. Собрать билд Веб Компонента. Используются сборщик Vite на данный момент. [https://github.com/reatailret/mam\_examples/tree/master/wcwysiwygeditor/examplepage/vite](https://github.com/reatailret/mam\_examples/tree/master/wcwysiwygeditor/examplepage/vite) . В будущем, когда появится большая необходимость в Веб Компонентах, этот процесс будет интегрирован в сам $mol\
 2\. Интегрировать сам Веб Компонент в компонент $mol [https://github.com/reatailret/mam\_examples/blob/master/wcwysiwygeditor/component/component.view.tree.ts#L3-L9](https://github.com/reatailret/mam\_examples/blob/master/wcwysiwygeditor/component/component.view.tree.ts#L3-L9)
 

@@ -17,13 +17,17 @@ Tree формат - это специальный удобный формат т
 
 <summary>Что такое x.view.tree файл в $mol?</summary>
 
+Ссинтаксис по $mol view tree  [https://github.com/hyoo-ru/mam\_mol/tree/master/view#all-special-chars](https://github.com/hyoo-ru/mam\_mol/tree/master/view#all-special-chars) . Но в первый раз лучше прочитать её полностью, т.к. там есть примеры, как использовать в $mol.
+
+<img src="../.gitbook/assets/image.png" alt="" data-size="original">
+
 Файлы x.view.tree в модуле - это декларативный способ описать структуру страницы. Другими словами - это шаблонизатор на синтаксисе .tree.
 
 Файл view.tree, сборщик компилирует в обычный класс на typescript.
 
 Подробнее можете прочитать в этой статье [https://github.com/hyoo-ru/mam\_mol/tree/master/view](https://github.com/hyoo-ru/mam\_mol/tree/master/view#all-special-chars)
 
-Краткий синтаксис из этой стать [https://github.com/hyoo-ru/mam\_mol/tree/master/view#all-special-chars](https://github.com/hyoo-ru/mam\_mol/tree/master/view#all-special-chars) , но в первый раз лучше прочитать её полностью, т.к. там есть примеры, как использовать в $mol\
+\
 \
 От комьюнити:\
 \- Вы можете почитать view.tree на пальцах в этой статье [https://page.hyoo.ru/#!=pl2jnm\_cvgbaz](https://page.hyoo.ru/#!=pl2jnm\_cvgbaz)
