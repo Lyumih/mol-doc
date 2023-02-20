@@ -9,6 +9,7 @@
   * [Как работать в $mol с git?](faq/kak-rabotat-v-usdmol-s-git.md)
   * [Что такое .tree?](faq/chto-takoe-.tree.md)
   * [Как работать со стилями в $mol?](faq/kak-rabotat-so-stilyami-v-usdmol.md)
+  * [Как интегрировать что-то в $mol?](faq/kak-integrirovat-chto-to-v-usdmol.md)
 
 ## 🧑💻 🧑💻 Практика
 
