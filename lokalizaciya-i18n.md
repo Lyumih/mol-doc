@@ -8,7 +8,7 @@ description: Инструкция по локализации проекта в 
 
 Локализация в $mol настроина по умолчанию из коробки. Небольшое введение по локализации есть в этой [статье](https://page.hyoo.ru/#!=jfketb\_3qo2ad/View%22jfketb\_3qo2ad%22.Details=%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%D0%BE%20view.tree) .
 
-<img src=".gitbook/assets/image (4) (1).png" alt="" data-size="original">![](<.gitbook/assets/image (2) (2) (1).png>)![](<.gitbook/assets/image (6).png>)![](<.gitbook/assets/image (5).png>)
+<img src=".gitbook/assets/image (4) (1).png" alt="" data-size="original">![](<.gitbook/assets/image (2) (2).png>)![](<.gitbook/assets/image (6).png>)![](<.gitbook/assets/image (5).png>)
 
 Рассмотрим локализацию на примере приложения Quine [https://mol.js.org/app/quine/-/](https://mol.js.org/app/quine/-/) , его исходники лежат здесь: [https://github.com/hyoo-ru/mam\_mol/tree/master/app/quine](https://github.com/hyoo-ru/mam\_mol/tree/master/app/quine)
 
@@ -37,7 +37,7 @@ description: Инструкция по локализации проекта в 
 На этом основные шаги по переводу закончены. Дальше нужно обедиться, что в браузере локализация правильно отрабатывает.&#x20;
 
 1. Открываем браузер с проектом, например, [https://mol.js.org/app/quine/-/](https://mol.js.org/app/quine/-/) и открываем консоль разработчика.
-2. В консоли вводим команду для смены локали на проекте `$mol_locale.lang('en')` или `$mol_locale.lang('ru')`. Эта команда поменяет заголовок и подсказку для кнопки копирования на сайте. Если ввести локаль, которой нет `$mol_locale.lang('it')` - то будет примерена локаль по умолчанию ('en'). Ознакомьтесь с неольшим исходником по локализации [https://github.com/hyoo-ru/mam\_mol/blob/master/locale/locale.ts](https://github.com/hyoo-ru/mam\_mol/blob/master/locale/locale.ts)  .<img src=".gitbook/assets/image (4) (1).png" alt="" data-size="original">![](<.gitbook/assets/image (2) (2) (1).png>)
+2. В консоли вводим команду для смены локали на проекте `$mol_locale.lang('en')` или `$mol_locale.lang('ru')`. Эта команда поменяет заголовок и подсказку для кнопки копирования на сайте. Если ввести локаль, которой нет `$mol_locale.lang('it')` - то будет примерена локаль по умолчанию ('en'). Ознакомьтесь с неольшим исходником по локализации [https://github.com/hyoo-ru/mam\_mol/blob/master/locale/locale.ts](https://github.com/hyoo-ru/mam\_mol/blob/master/locale/locale.ts)  .<img src=".gitbook/assets/image (4) (1).png" alt="" data-size="original">![](<.gitbook/assets/image (2) (2).png>)
 3. Текущая локаль хранится в localStorage сайта, поэтому при перезапуске браузера у пользователя сохранится выбранный им язык. <img src=".gitbook/assets/image (6) (1).png" alt="" data-size="original">
 4. Если нужно получить переводы для всех ключей на сайте по выбранной локали, то нужно выполнить команду `$mol_locale.texts('ru')` и получите все ключи. Даже те, которые используются в других компонентах. Их можно будет отследить по названию ключа, т.к. оно указывает на путь до компонента + свойство. Исходник команды лежит тут: [https://github.com/hyoo-ru/mam\_mol/blob/master/locale/locale.ts#L39-L50](https://github.com/hyoo-ru/mam\_mol/blob/master/locale/locale.ts#L39-L50)
 
