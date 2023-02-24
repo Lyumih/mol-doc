@@ -14,7 +14,7 @@ description: Первое приложение Hello World!
 
 ### Скачать PDF можно тут: [https://t.me/mam\_mol/114523](https://t.me/mam\_mol/114523)
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p><a href="https://cheatography.com/milis/cheat-sheets/mol/">https://cheatography.com/milis/cheat-sheets/mol/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://cheatography.com/milis/cheat-sheets/mol/">https://cheatography.com/milis/cheat-sheets/mol/</a></p></figcaption></figure>
 
 
 

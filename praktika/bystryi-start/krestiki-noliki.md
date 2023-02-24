@@ -8,4 +8,4 @@ description: Стандартное приложение Крестики-нол
 
 Ссылка на репозиторий: [https://github.com/reatailret/mam\_examples/tree/master/xo](https://github.com/reatailret/mam\_examples/tree/master/xo)
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
