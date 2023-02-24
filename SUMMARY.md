@@ -13,6 +13,7 @@
 
 ## 🧑💻 🧑💻 Практика
 
+* [Шпаргалка $mol](praktika/shpargalka-usdmol.md)
 * [Быстрый старт](praktika/bystryi-start/README.md)
   * [Hello World!](praktika/bystryi-start/hello-world.md)
   * [Список дел](praktika/bystryi-start/spisok-del.md)

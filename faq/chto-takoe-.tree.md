@@ -19,7 +19,7 @@ Tree формат - это специальный удобный формат т
 
 Ссинтаксис по $mol view tree  [https://github.com/hyoo-ru/mam\_mol/tree/master/view#all-special-chars](https://github.com/hyoo-ru/mam\_mol/tree/master/view#all-special-chars) . Но в первый раз лучше прочитать её полностью, т.к. там есть примеры, как использовать в $mol.
 
-<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image.png" alt="" data-size="original">
 
 Файлы x.view.tree в модуле - это декларативный способ описать структуру страницы. Другими словами - это шаблонизатор на синтаксисе .tree.
 
