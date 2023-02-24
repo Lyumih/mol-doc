@@ -14,7 +14,7 @@ description: >-
 На данный момент процесс интеграции вебкомпонентов состоит из нескольких этапов. \
 Рассмотрим на примере Веб Компонента WYSIWYG редактора [https://github.com/webislife/wc-wysiwyg](https://github.com/webislife/wc-wysiwyg) от @webislive. [Демо](https://webislife.ru/demo/wc-wysiwyg/)
 
-![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/image (1) (1).png>)\
 Сайт на мол: [https://reatailret.github.io/mam\_examples/wcwysiwygeditor/examplepage/vite/build/](https://reatailret.github.io/mam\_examples/wcwysiwygeditor/examplepage/vite/build/)\
 Репозиторий: [https://github.com/reatailret/mam\_examples/tree/master/wcwysiwygeditor](https://github.com/reatailret/mam\_examples/tree/master/wcwysiwygeditor)\
 <img src="../.gitbook/assets/image (8).png" alt="" data-size="original">\
