@@ -10,6 +10,12 @@ description: Первое приложение Hello World!
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
+У нас  есть [шпаргалка по Hello World приложению](https://cheatography.com/milis/cheat-sheets/mol/). Она очень сильно будет помогать держать в голове синтаксис и структуру приложения на mol.
+
+### Скачать PDF можно тут: [https://t.me/mam\_mol/114523](https://t.me/mam\_mol/114523)
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://cheatography.com/milis/cheat-sheets/mol/">https://cheatography.com/milis/cheat-sheets/mol/</a></p></figcaption></figure>
+
 
 
 Посмотреть работающее приложение: [https://mol.js.org/app/hello/-](https://mol.js.org/app/hello/-)
