@@ -14,4 +14,4 @@ description: Стандартные компоненты от $mol
 [https://docs.google.com/spreadsheets/d/1\_Ek5WDwo\_rA7Fk\_-KQm4SgbEsOqBeDZSaXAYM9-xdPY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1\_Ek5WDwo\_rA7Fk\_-KQm4SgbEsOqBeDZSaXAYM9-xdPY/edit?usp=sharing)\
 
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://docs.google.com/spreadsheets/d/1_Ek5WDwo_rA7Fk_-KQm4SgbEsOqBeDZSaXAYM9-xdPY/edit?usp=sharing" %}
