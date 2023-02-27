@@ -32,6 +32,10 @@
 
 * [📊 Яндекс Метрика](yandeks-metrika.md)
 * [🇱🇷 Локализация i18n](lokalizaciya-i18n.md)
+* [🎯 RoadMap](roadmap/README.md)
+  * [$mol](roadmap/usdmol.md)
+  * [Плагины VS Code](roadmap/plaginy-vs-code.md)
+  * [Компоненты UI](roadmap/komponenty-ui.md)
 
 ## 🌎 Экосистема
 
